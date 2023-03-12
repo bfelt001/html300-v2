@@ -31,6 +31,7 @@ const
       name: 'Top3',
       component: Top3,
     },
+
   ]
 
   const router = new VueRouter({
